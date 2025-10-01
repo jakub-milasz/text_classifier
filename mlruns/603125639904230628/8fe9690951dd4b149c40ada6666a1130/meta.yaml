@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/603125639904230628/8fe9690951dd4b149c40ada6666a1130/artifacts
+end_time: 1759349621696
+entry_point_name: ''
+experiment_id: '603125639904230628'
+lifecycle_stage: active
+run_id: 8fe9690951dd4b149c40ada6666a1130
+run_name: nervous-shrike-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759349621533
+status: 3
+tags: []
+user_id: jakub

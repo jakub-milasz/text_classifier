@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/603125639904230628/9aad97baeb32494da5290640c3aa0ea5/artifacts
+end_time: 1759349621270
+entry_point_name: ''
+experiment_id: '603125639904230628'
+lifecycle_stage: active
+run_id: 9aad97baeb32494da5290640c3aa0ea5
+run_name: adorable-calf-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759349621100
+status: 3
+tags: []
+user_id: jakub

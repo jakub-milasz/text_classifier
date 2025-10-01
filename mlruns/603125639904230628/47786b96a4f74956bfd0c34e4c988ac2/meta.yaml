@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/603125639904230628/47786b96a4f74956bfd0c34e4c988ac2/artifacts
+end_time: 1759349622579
+entry_point_name: ''
+experiment_id: '603125639904230628'
+lifecycle_stage: active
+run_id: 47786b96a4f74956bfd0c34e4c988ac2
+run_name: bald-foal-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759349622395
+status: 3
+tags: []
+user_id: jakub

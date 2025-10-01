@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/603125639904230628/76f43b88d50e4e70a6c38f09332ceee9/artifacts
+end_time: 1759349621036
+entry_point_name: ''
+experiment_id: '603125639904230628'
+lifecycle_stage: active
+run_id: 76f43b88d50e4e70a6c38f09332ceee9
+run_name: judicious-panda-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759349620783
+status: 3
+tags: []
+user_id: jakub

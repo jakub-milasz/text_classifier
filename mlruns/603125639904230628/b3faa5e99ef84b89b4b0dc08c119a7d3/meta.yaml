@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/603125639904230628/b3faa5e99ef84b89b4b0dc08c119a7d3/artifacts
+end_time: 1759349622802
+entry_point_name: ''
+experiment_id: '603125639904230628'
+lifecycle_stage: active
+run_id: b3faa5e99ef84b89b4b0dc08c119a7d3
+run_name: stately-goat-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759349622624
+status: 3
+tags: []
+user_id: jakub

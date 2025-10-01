@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/603125639904230628/d290074456f143a1936e3fa1bad21d5f/artifacts
+end_time: 1759349622347
+entry_point_name: ''
+experiment_id: '603125639904230628'
+lifecycle_stage: active
+run_id: d290074456f143a1936e3fa1bad21d5f
+run_name: kindly-lynx-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759349622178
+status: 3
+tags: []
+user_id: jakub
